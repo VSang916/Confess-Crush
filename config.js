@@ -1,20 +1,20 @@
 const CONFIG = {
     titleWeb: "Không còn đường nào nữa",
-    introTitle: 'Nhi nè :)',
-    introDesc: `Còn thở là còn gỡ
-                Bỏ lô-Bỏ đề-Bỏ cờ-Bỏ bạc
-                Thoi suy nghĩ ta sẽ gỡ gạc
-                Bắt đầu lại từ con số 0`,
+    introTitle: 'Sang quá đỉnh',
+    introDesc: `Trái đất vốn lạ thường 
+                Mà sao em cứ đi nhầm đường 
+                Lạc vào tim anh lẻ loi 
+                Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Gỡ ko bạn ơi? 🥰',
-    desc: 'Bán nhà gỡ nhá bạn? ',
-    btnYes: 'OK',
+    title: 'Liệu bạn có đồng ý đi cùng mình trên chặng đường sắp tới?🥰',
+    desc: 'Phải chăng tui đã yêu ngay từ cái nhìn đầu tiên',
+    btnYes: 'Hmmm thì cũng được á',
     btnNo: 'Không nha',
-    question: 'Bạn có lôi kéo bạn bè vào cũng gỡ ko??',
+    question: 'Bạn thích tôi lâu chưa v :))',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Bạn bè là phải chung chí hướng. Cùng gỡ thoi',
-    mess: 'Mình biết mà 🥰. Con nợ này 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi đánh bài nhá',
+    reply: 'Không sớm không muộn, chỉ là đã thích thoi',
+    mess: 'Mình biết mà 🥰. May chưa 😘😘',
+    messDesc: 'Tối nay 7h, mình qua đón đi đâu tính sau nhá',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/VS.916/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
