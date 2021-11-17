@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "Không còn đường nào nữa",
     introTitle: 'Sang quá đỉnh',
     introDesc: `Trái đất vốn lạ thường 
-                /n Mà sao em cứ đi nhầm đường 
-                /n Lạc vào tim anh lẻ loi 
-                /n Đằng sau chữ yêu đây là thương`,
+                Mà sao em cứ đi nhầm đường 
+                Lạc vào tim anh lẻ loi 
+                Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Liệu bạn có đồng ý đi cùng mình trên chặng đường sắp tới?🥰',
     desc: 'Phải chăng tui đã yêu ngay từ cái nhìn đầu tiên',
